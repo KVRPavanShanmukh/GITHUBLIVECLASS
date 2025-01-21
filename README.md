@@ -1,2 +1,2 @@
 # GITHUBLIVECLASS
-This repository completely consists of knowledge for others.
+This repository completely consists of LIVE CLASSES Topic discussions and many more.
